@@ -1,0 +1,53 @@
+  @keyframes spinner {
+    to {transform: rotate(360deg);}
+  }
+   
+  .spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    border-top-color: #000;
+    animation: spinner .6s linear infinite;
+  }
+  
+/** Circle CREATION **/
+@keyframes spin {to {-webkit-transform: rotate(360deg);}}
+@-webkit-keyframes spin {to {-webkit-transform: rotate(360deg);}}
+.loader {
+  position: relative;
+  text-align: center;
+  margin: 15px auto 35px auto;
+  z-index: 9999;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border: 10px solid rgba(0, 0, 0, .3);
+  border-radius: 50%;
+  border-top-color: #000;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+
+}
+  /*
+  .example {
+    margin: 10px;
+    background: #ffcccc;
+    padding: 10px;
+  }
+  */
+  /*
+  .example-spinner {
+    position: relative;
+    min-height: 36px;
+    background: #fff;
+    margin: 10px 0 0;
+  }
+  */
