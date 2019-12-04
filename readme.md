@@ -1,4 +1,4 @@
-<p align="center"><img src="https://7pub.github.io/Cassandra/Cassandra.svg" style="width:150px"></p>
+<p align="center"><img src="https://7pub.github.io/Cassandra/Cassandra.svg" style="width:50px"></p>
 
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
@@ -15,11 +15,13 @@
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
 </p>
+<p align="center"><img src="https://7pub.github.io/Cassandra/repository-open-graph-template.png"></p>
 
+<!--
 | Available                            | in                                   |
 |--------------------------------------|--------------------------------------|
 | ![](https://#) | ![](https://#) |
-
+-->
 
 ## Featured 
 OSINT Tools for Pastebin && Dump check
@@ -51,25 +53,12 @@ It is pretty simple: Just begin typing!
 ```
 ## Add to your Website!
 ```html
-- Use this Code snippet to embedd Cassandra into your own Website!
+- Use this Code snippet to embed Cassandra fast and simple to your own Website!
 
 <iframe 
-    src="https://7pub.github.io/Cassandra/" 
-    style="position:fixed; 
-            top:100px; 
-            left:0px; 
-            bottom:0px; 
-            right:0px; 
-            width:100%; 
-            height:100%; 
-            border:none; 
-            margin:0; 
-            padding:0; 
-            overflow:hidden; 
-            z-index:999999;">
-</iframe>
+    src="https://7pub.github.io/Cassandra/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
 
 ```
 
 ## Livesite
-[![Youtube](https://cali.run/cassandra)](https://cali.run/cassandra)
+[![Cassandra](https://cali.run/cassandra)](https://cali.run/cassandra)
