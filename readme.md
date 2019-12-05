@@ -15,6 +15,9 @@
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
 </p>
+<p align="center">
+  <a href="https://cali.run/cassandra"><b>https://cali.run/cassandr</b></a>
+</p>
 <p align="center"><img src="https://7pub.github.io/Cassandra/repository-open-graph-template.png"></p>
 
 <!--
@@ -23,11 +26,21 @@
 | ![](https://#) | ![](https://#) |
 -->
 
-## Featured 
-OSINT Tools for Pastebin && Dump check
+## Usage
+
+```bash
+It is pretty simple: Just begin typing!
+- There is no need to install
+- No need to Authenticate
+- No User-Account
+- No Tracker
+- No Costs
+```
 
 ## Features
+
 [**Cassandra**] offers a lot of information about the compromised email, some useful information is displayed by this script:
+
 * Name of Breach
 * Domain Name
 * Date of Breach
@@ -38,27 +51,14 @@ OSINT Tools for Pastebin && Dump check
 
 And with all this information **Cassandra** easily finds passwords for compromised emails if the dump is accessible and it contains the password
 
+## Add to your Website
 
-
-## Usage
-```bash
-It is pretty simple: Just begin typing!
-- There is no need to install
-- No need to Authenticate
-- No User-Account
-- No Tracker
-- No Costs
-
-
-```
-## Add to your Website!
 ```html
 - Use this Code snippet to embed Cassandra fast and simple to your own Website!
 
-<iframe 
-    src="https://7pub.github.io/Cassandra/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
-
+<iframe src="https://7pub.github.io/Cassandra/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
 ```
 
 ## Livesite
+
 [![Cassandra](https://cali.run/cassandra)](https://cali.run/cassandra)
