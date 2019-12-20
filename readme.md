@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://7pub.github.io/Cassandra/Cassandra.svg" data-canonical-src="https://7pub.github.io/Cassandra/Cassandra.svg" style="font-size:1em;"></p>
+<img src="https://7pub.github.io/Cassandra/Cassandra.svg" data-canonical-src="https://7pub.github.io/Cassandra/Cassandra.svg" style="height:40px;"></p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
 <p align="center">
