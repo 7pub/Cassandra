@@ -1,5 +1,6 @@
-<p align="center"><img src="https://7pub.github.io/Cassandra/Cassandra.svg" svg="width:50%"></p>
-
+<p align="center">
+  <img src="https://7pub.github.io/Cassandra/Cassandra.svg" svg="width:10em">
+</p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
 <p align="center">
@@ -14,9 +15,6 @@
   <a href="https://#"><b>Telegram</b></a>
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
-</p>
-<p align="center">
-  <a href="https://cali.run/cassandra"><b>https://cali.run/cassandr</b></a>
 </p>
 <p align="center"><img src="https://7pub.github.io/Cassandra/repository-open-graph-template.png"></p>
 
@@ -61,4 +59,4 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-[![Cassandra](https://cali.run/cassandra)](https://cali.run/cassandra)
+![Cassandra](https://cali.run/cassandra)](https://cali.run/cassandra)
