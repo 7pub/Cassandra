@@ -59,4 +59,4 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-![Cassandra](https://cali.run/cassandra)](https://cali.run/cassandra)
+![Cassandra](https://cali.run/cassandra)
