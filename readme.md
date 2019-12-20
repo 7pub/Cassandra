@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://7pub.github.io/Cassandra/Cassandra.svg" svg="width:10em">
+ ![Logo](https://7pub.github.io/Cassandra/Cassandra.svg)
 </p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
@@ -59,4 +59,4 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-![Cassandra](https://cali.run/cassandra)
+![Cassandra](https://7pub.github.io/Cassandra/)
