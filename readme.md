@@ -1,6 +1,5 @@
 <p align="center">
- ![Logo](https://7pub.github.io/Cassandra/Cassandra.svg)
-</p>
+<img src="#" data-canonical-src="https://7pub.github.io/Cassandra/Cassandra.svg" style="width:10em;"></p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
 <p align="center">
