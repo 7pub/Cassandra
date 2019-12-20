@@ -1,4 +1,4 @@
-<p align="center"><img src="https://7pub.github.io/Cassandra/Cassandra.svg" svg="width:100%"></p>
+<p align="center"><img src="https://7pub.github.io/Cassandra/Cassandra.svg" svg="width:50%"></p>
 
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
