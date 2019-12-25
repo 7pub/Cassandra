@@ -15,7 +15,7 @@
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
 </p>
-<p align="center"><img src="https://7pub.github.io/Cassandra/repository-open-graph-template.png"></p>
+<p align="center"><img src="https://http://cassandra.cali.run/repository-open-graph-template.png/"></p>
 
 <!--
 | Available                            | in                                   |
@@ -53,9 +53,9 @@ And with all this information **Cassandra** easily finds passwords for compromis
 ```html
 - Use this Code snippet to embed Cassandra fast and simple to your own Website!
 
-<iframe src="https://7pub.github.io/Cassandra/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+<iframe src="https://cassandra.cali.run/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
 ```
 
 ## Livesite
 
-![Cassandra](https://7pub.github.io/Cassandra/)
+![Cassandra](https://cassandra.cali.run/)
