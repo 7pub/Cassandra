@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://n2h.me/img/caliweb/cassandra/Cassandra.svg" data-canonical-src="https://n2h.me/img/caliweb/cassandra/Cassandra.svg" style="height:40px;"></p>
+<img src="https://ccdn.cali.run/img/caliweb/cassandra/Cassandra.svg" data-canonical-src="https://ccdn.cali.run/img/caliweb/cassandra/Cassandra.svg" style="height:40px;"></p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 
 <p align="center">
@@ -58,4 +58,5 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-![Cassandra](https://cassandra.cali.run/)
+![Cassandra](https://ccdn.cali.run/)
+
