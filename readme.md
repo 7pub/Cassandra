@@ -1,12 +1,16 @@
-<p align="center"><img style="font-size:20px" src="/Cassandra.svg"></p>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" />
+</head>
+<body style="padding: 200px 0px px 0px">
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HaveIBeenPwned-v3-blue.svg?style=plastic">
   <img alt="Website" src="https://img.shields.io/website">
   <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/7pub/Cassandra/total">
 </p>
-
 <p align="center">
   <a href="https://#t"><b>Twitter</b></a>
   <span> - </span>
@@ -58,4 +62,9 @@ And with all this information **Cassandra** easily finds passwords for compromis
 ## Livesite
 
 <a href="https://7pub.github.io/Cassandra/" target="_blank" >[Cassandra Live Site]</a>
-
+    </main>
+    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/ajax/popper/1.12.9/popper.min.js"></script>
+    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/bootstrap/4.0.0/bootstrap.min.js"></script>
+</body>
+</html>
