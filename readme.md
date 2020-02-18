@@ -57,5 +57,5 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-![Cassandra](https://theorem.systems/)
+<a href="https://7pub.github.io/Cassandra/" target="_blank" >[Cassandra Live Site]</a>
 
