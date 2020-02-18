@@ -14,7 +14,7 @@
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
 </p>
-<p align="center"><img src="/repository-open-graph-template.png"></p>
+<p align="center"><img src="/Sicherheit.Durch.Design.gif"></p>
 
 <!--
 | Available                            | in                                   |
