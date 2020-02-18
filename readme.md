@@ -62,9 +62,9 @@ And with all this information **Cassandra** easily finds passwords for compromis
 ## Livesite
 
 <a href="https://7pub.github.io/Cassandra/" target="_blank" >[Cassandra Live Site]</a>
-    </main>
-    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/ajax/popper/1.12.9/popper.min.js"></script>
-    <script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/bootstrap/4.0.0/bootstrap.min.js"></script>
+</main>
+<script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/ajax/popper/1.12.9/popper.min.js"></script>
+<script type="text/javascript" src="https://7pub.github.io/_site/scripts/vendor/bootstrap/4.0.0/bootstrap.min.js"></script>
 </body>
 </html>
