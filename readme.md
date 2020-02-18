@@ -1,4 +1,4 @@
-<p align="center"><img src="/Cassandra.svg" data-canonical-src="/Cassandra.svg" style="font-size: 4em;"></p>
+<p align="center"><img style="witdh:4rem" src="/Cassandra.svg"></p>
 
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 <p align="center">
