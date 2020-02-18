@@ -1,4 +1,4 @@
-<p align="center"><img src="/Cassandra.svg" data-canonical-src="/Cassandra.svg" style="height:40px;"></p>
+<p align="center"><img src="/Cassandra.svg" data-canonical-src="/Cassandra.svg" style="font-size: 4em;"></p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HaveIBeenPwned-v3-blue.svg?style=plastic">
