@@ -16,7 +16,7 @@
           <div class="modal-body">
             <div class="row text-center">
               <div class="col-md-12">
-                <img src="/assets/img/Sicherheit.Durch.Design.gif" style="width: 100%; margin: -40px 0px 0px 0px">
+                <img src="/Sicherheit.Durch.Design.gif" style="width: 100%; margin: -40px 0px 0px 0px">
               </div>
               <div class="col-md-12">
                 <p style="color: steelblue">"Völlig
@@ -28,7 +28,8 @@
             </div>
           </div>
           <div class="modal-footer">
-            <button class="btn btn-outline-danger" type="button" data-dismiss="modal" aria-label="Close" style="background-position: left; background-color: rgb(255,255,255);color: rgb(255,39,61);">Schliessen</button>
+            <button class="btn btn-outline-danger" type="button" data-dismiss="modal" aria-label="Close" 
+            style="background-position: left; background-color: rgb(255,255,255);color: rgb(255,39,61);">Schliessen</button>
           </div>
         </div>
       </div>
