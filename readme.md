@@ -56,5 +56,5 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-![Cassandra](https://ccdn.cali.run/)
+![Cassandra](https://theorem.systems/)
 
