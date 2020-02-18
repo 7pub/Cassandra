@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://ccdn.cali.run/img/caliweb/cassandra/Cassandra.svg" data-canonical-src="https://ccdn.cali.run/img/caliweb/cassandra/Cassandra.svg" style="height:40px;"></p>
+<p align="center"><img src="/Cassandra.svg" data-canonical-src="/Cassandra.svg" style="height:40px;"></p>
 <h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HaveIBeenPwned-v3-blue.svg?style=plastic">
   <img alt="Website" src="https://img.shields.io/website">
