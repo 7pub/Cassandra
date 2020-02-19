@@ -63,5 +63,22 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 <a href="https://7pub.github.io/Cassandra/" target="_blank" >[Cassandra Live Site]</a>
 </main>
+<h3><i class='href' onclick='wtfpl1()'>📄</i>&#160;&#160;License</h3>
+
+| DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE |
+|-|
+| MACH DAMIT WAS VERDAMMT NOCHMAL DU WILLST |
+
+
+| ![Crown](/assets/img/wtfpl-badge-4.png) |
+|:-|
+| [Copyright (C) <script>document.write(new Date().getFullYear())</script> ] - [Cali.Web] - [Version.02] - [[WTFPL@protonmail.com](WTFPL@protonmail.com)] |
+| Weitere Informationen finden Sie unter [http://unlicense.org](http://unlicense.org) |
+
+---
+
+<em>We Flash, you don`t<br>
+Joker</em>
+
 </body>
 </html>
