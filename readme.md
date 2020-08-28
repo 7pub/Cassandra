@@ -18,7 +18,7 @@
   <span> - </span>
   <a href="https://cali.run"><b>Blog</b></a>
 </p>
-<p align="center"><img src="https://secure-control-cluster.github.io/cassandra/Sicherheit.Durch.Design.gif"></p>
+<p align="center"><img src="/Sicherheit.Durch.Design.gif"></p>
 
 <!--
 | Available                            | in                                   |
