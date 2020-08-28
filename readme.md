@@ -61,7 +61,7 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-<a href="https://secure-control-cluster.github.io/cassandra/" target="_blank" >[Cassandra Live Site]</a>
+<a href="https://theorem.systems" target="_blank" >[Cassandra Live Site]</a>
 </main>
 </body>
 </html>
